@@ -1,0 +1,186 @@
+repo_name: mingzidouqunalile/WARP-Clash-API
+report_id: 832eb2e88433985470b9180f139f4cde
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-12T10:09:46+00:00'
+requested_by: vvbbnn00
+provider: github
+branch: master
+detected_tools_count: 14
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API
+  detection_source: Repo Metadata
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/.github/workflows/docker_build_amd64.yml
+  detection_source: ".github/workflows/docker_build_amd64.yml"
+  last_updated_by: vvbbnn00
+  last_updated_on: 2024-01-29 18:56:25.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: 不做评论
+  last_updated_on: 2023-08-23 16:46:56.000000000 Z
+- name: Alpine Linux
+  description: Security-oriented, lightweight Linux distribution based on musl libc
+    and busybox
+  website_url: https://www.alpinelinux.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/6429/alpine_linux.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/Dockerfile
+  detection_source: Dockerfile
+  last_updated_by: Rambin
+  last_updated_on: 2024-05-05 17:17:43.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API
+  detection_source: Repo Metadata
+- name: APScheduler
+  description: In-process task scheduler with Cron-like capabilities
+  package_url: https://pypi.org/project/APScheduler
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20037/default_a7a70921d2d3189665c78015850dc968f41705a1.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: 不做评论
+  last_updated_on: 2023-08-23 16:46:56.000000000 Z
+- name: Faker
+  description: Faker is a Python package that generates fake data for you
+  package_url: https://pypi.org/project/Faker
+  version: 24.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20068/default_271333e82c8d92d6ae0f197b10a9c1f791d7b37f.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: vvbbnn00
+  last_updated_on: 2024-03-23 07:37:12.000000000 Z
+- name: PyYAML
+  description: YAML parser and emitter for Python
+  package_url: https://pypi.org/project/PyYAML
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19829/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: 不做评论
+  last_updated_on: 2023-08-23 16:46:56.000000000 Z
+- name: cryptography
+  description: Cryptography is a package which provides cryptographic recipes and
+    primitives to Python developers
+  package_url: https://pypi.org/project/cryptography
+  version: 42.0.5
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19850/default_db2ab2702f70e20c272f6ce65251108fb2b8f1ea.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: vvbbnn00
+  last_updated_on: 2024-03-23 07:37:12.000000000 Z
+- name: gunicorn
+  description: WSGI HTTP Server for UNIX
+  package_url: https://pypi.org/project/gunicorn
+  version: 22.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19931/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2024-04-17 02:32:32.000000000 Z
+- name: maxminddb
+  description: Reader for the MaxMind DB format
+  package_url: https://pypi.org/project/maxminddb
+  version: 2.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: vvbbnn00
+  last_updated_on: 2024-03-23 07:37:12.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/mingzidouqunalile/WARP-Clash-API/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: 不做评论
+  last_updated_on: 2023-08-23 16:46:56.000000000 Z
